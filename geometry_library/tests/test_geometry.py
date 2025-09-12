@@ -5,7 +5,7 @@
 
 import pytest
 from math import pi, sqrt, isclose
-from geometry_library.square import Triangle, Circle  
+from MindBox.geometry_library.area import Triangle, Circle  
 
 
 @pytest.mark.describe("Площадь и периметр треугольников")

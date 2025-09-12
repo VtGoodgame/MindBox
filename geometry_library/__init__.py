@@ -1,3 +1,3 @@
-from .square import Triangle, Circle
+from .area import Triangle, Circle
 
 __all__ = ["Triangle", "Circle"]
